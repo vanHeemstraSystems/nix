@@ -9,6 +9,8 @@ Based on "Matthew Croughan - What Nix Can Do (Docker Can't) - SCaLE 20x" at http
 
 Based on "Nix in the wild" at https://flox.dev/nixinthewild
 
+Based on "NixOS is Mindblowing" at https://www.youtube.com/watch?v=fuWPuJZ9NcU
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
