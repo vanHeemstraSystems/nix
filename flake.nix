@@ -6,7 +6,7 @@
     in
     {
       my-container-image = pkgs.dockerTools.buildLayeredImage {
-        name = "my-container-iamge";
+        name = "my-container-image";
         tag = "latest";
         contents = [
           pkgs.hello
