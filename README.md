@@ -13,6 +13,8 @@ Based on "NixOS is Mindblowing" at https://www.youtube.com/watch?v=fuWPuJZ9NcU
 
 Based on "Dockerfile.nix" at https://github.com/docker/babashka-pod-docker/blob/main/Dockerfile.nix
 
+Based on "A Gentle Introduction to Nix" at https://www.youtube.com/watch?v=gUjvnZ9ZwMs
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
