@@ -1,11 +1,13 @@
 nix
 # Nix
 
+> Nix is a declarative framework for package management, builds, and deployments.
+
 Based on "Docker and Nix (DockerCon 2023)" at https://www.youtube.com/watch?v=l17oRkhgqHE
 
 Based on "Matthew Croughan - What Nix Can Do (Docker Can't) - SCaLE 20x" at https://www.youtube.com/watch?v=6Le0IbPRzOE
 
-> Nix is a declarative framework for package management, builds, and deployments.
+Based on "Nix in the wild" at https://flox.dev/nixinthewild
 
 ## 100 - Introduction
 
