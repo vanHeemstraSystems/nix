@@ -11,6 +11,8 @@ Based on "Nix in the wild" at https://flox.dev/nixinthewild
 
 Based on "NixOS is Mindblowing" at https://www.youtube.com/watch?v=fuWPuJZ9NcU
 
+Based on "Dockerfile.nix" at https://github.com/docker/babashka-pod-docker/blob/main/Dockerfile.nix
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
