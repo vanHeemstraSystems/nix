@@ -21,6 +21,8 @@ Based on "Zero to Nix" at https://zero-to-nix.com/
 
 Based on "nix-learning" at https://github.com/humancalico/nix-learning
 
+Based on "Matthew Croughan - Use flake.nix, not Dockerfile - MCH2022" at https://www.youtube.com/watch?v=0uixRE8xlbY
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
