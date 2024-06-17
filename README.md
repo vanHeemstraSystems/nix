@@ -5,6 +5,8 @@ Based on "Docker and Nix (DockerCon 2023)" at https://www.youtube.com/watch?v=l1
 
 Based on "Matthew Croughan - What Nix Can Do (Docker Can't) - SCaLE 20x" at https://www.youtube.com/watch?v=6Le0IbPRzOE
 
+> Nix is a declarative framework for package management, builds, and deployments.
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
