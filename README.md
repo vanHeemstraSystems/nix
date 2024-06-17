@@ -19,6 +19,8 @@ Based on "Learn Nix" at https://nixos.org/learn/
 
 Based on "Zero to Nix" at https://zero-to-nix.com/
 
+Based on "nix-learning" at https://github.com/humancalico/nix-learning
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
