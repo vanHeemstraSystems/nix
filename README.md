@@ -17,6 +17,8 @@ Based on "A Gentle Introduction to Nix" at https://www.youtube.com/watch?v=gUjvn
 
 Based on "Learn Nix" at https://nixos.org/learn/
 
+Based on "Zero to Nix" at https://zero-to-nix.com/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
