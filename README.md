@@ -15,6 +15,8 @@ Based on "Dockerfile.nix" at https://github.com/docker/babashka-pod-docker/blob/
 
 Based on "A Gentle Introduction to Nix" at https://www.youtube.com/watch?v=gUjvnZ9ZwMs
 
+Based on "Learn Nix" at https://nixos.org/learn/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
