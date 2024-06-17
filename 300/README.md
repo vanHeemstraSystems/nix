@@ -10,3 +10,5 @@ $ ls -lah result
 docker load < result
 docker run my-container-image
 ```
+
+It makes use of the file ```flake.nix```. 
