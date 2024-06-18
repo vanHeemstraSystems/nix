@@ -25,6 +25,8 @@ Based on "Matthew Croughan - Use flake.nix, not Dockerfile - MCH2022" at https:/
 
 Based on "Nix by example" at https://medium.com/@MrJamesFisher/nix-by-example-a0063a1a4c55
 
+Based on "NixOS & Flakes Book - An unofficial book for beginners" at https://nixos-and-flakes.thiscute.world/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
