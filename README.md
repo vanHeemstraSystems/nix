@@ -27,6 +27,8 @@ Based on "Nix by example" at https://medium.com/@MrJamesFisher/nix-by-example-a0
 
 Based on "NixOS & Flakes Book - An unofficial book for beginners" at https://nixos-and-flakes.thiscute.world/
 
+Based on "NixOS & Flakes Book on Github" at https://github.com/ryan4yin/nixos-and-flakes-book
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
