@@ -5,3 +5,7 @@
 > Flakes are a way to package your Nix files. - Eelco Dolstra, Creator of Nix
 
 **TIP**: See [Practical Nix flake anatomy: a guided tour of flake.nix](https://vtimofeenko.com/posts/practical-nix-flake-anatomy-a-guided-tour-of-flake.nix/).
+
+## 100 - Example Flakes
+
+See [README.md](./100/README.md)
