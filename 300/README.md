@@ -1,6 +1,10 @@
 # 300 - Building Our Application
 
-## 100 - Building a Hello World container with Nix and Docker
+## 100 - Installation
+
+See [README.md](./100/README.md)
+
+## 200 - Building a Hello World container with Nix and Docker
 
 Run the following command, after having installed nix and docker.
 
