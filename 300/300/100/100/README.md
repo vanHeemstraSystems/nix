@@ -55,6 +55,18 @@ At the same level as the ```description``` is an ```outputs``` attribute, that l
 }
 ```
 
-An example of an entry for ```outputs``` is ...
+An example of an entry for ```outputs``` is a packages (here: x86_64-linux) entry. Optionally, inputs can have arguments (here: self , nixpkgs):
+
+```
+...
+{
+  ... more
+  outputs = { self, nixpkgs }: {
+    packages."x86_64-linux" = 
+      ... more
+  }
+}
+...
+```
 
 MORE
