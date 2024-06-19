@@ -94,3 +94,29 @@ The following attributes are valid for the ```x86_64-linux``` package, when inst
 ```
 
 In above example, we define a variable ```pkgs``` that imports nix packages (here: system for x86_64-linux).
+
+### Docker
+
+With a system (here: x86_64-linux) we are now able to install Docker containers, using Docker images.
+
+An example of declaring a Docker image in our flake.nix file is:
+
+```
+...
+  packages."x86_64-linux" =
+    let
+      pkgs = import nixpkgs [ system = "x86_64-linux"; };
+    in
+    rec {
+      dockerImage =
+        pkgs.dockerTools.buildLayeredImage ( ... more )
+        in rec {
+          ... more
+        }; 
+    };
+...
+```
+
+See also [Nix-powered Docker Containers](https://www.youtube.com/watch?v=5XY3K8DH55M).
+
+MORE
