@@ -73,6 +73,24 @@ An example of an entry for ```outputs``` is a packages (here: x86_64-linux) entr
 ...
 ```
 
+**NOTE**: ```self``` is a reference to the flake itself. This is how the flake components (usually outputs) can reference other flake components.
+
 Strictly speaking, the ```outputs``` attribute is needed and required.
 
-MORE
+### x86_64-linux
+
+The following attributes are valid for the ```x86_64-linux``` package, when installing nginx:
+
+```
+{
+  ... more
+  packages."x86_64-linux" =
+    let
+       pkgs = import nixpkgs { system = "x86_64-linux"; };
+    in
+    ... more
+  ... more
+}
+```
+
+In above example, we define a variable ```pkgs``` that imports nix packages (here: system for x86_64-linux).
