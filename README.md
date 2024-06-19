@@ -35,6 +35,8 @@ Based on "Nix flakes (NixCon 2019)" at https://www.youtube.com/watch?v=UeBX7Ide5
 
 Based on "Practical Nix flake anatomy: a guided tour of flake.nix" at https://vtimofeenko.com/posts/practical-nix-flake-anatomy-a-guided-tour-of-flake.nix/
 
+Based on "Nix-powered Docker Containers" at https://www.youtube.com/watch?v=5XY3K8DH55M
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
