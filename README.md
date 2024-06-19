@@ -37,6 +37,8 @@ Based on "Practical Nix flake anatomy: a guided tour of flake.nix" at https://vt
 
 Based on "Nix-powered Docker Containers" at https://www.youtube.com/watch?v=5XY3K8DH55M
 
+Based on "Complete Nix workflow for macOS. Let the snowflakes in." at https://github.com/lanjoni/snowflake
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
