@@ -31,6 +31,8 @@ Based on "NixOS & Flakes Book on Github" at https://github.com/ryan4yin/nixos-an
 
 Based on "Flakes: Nix Unshackled – Graham Christensen | PackagingCon 2023" at https://www.youtube.com/watch?v=wZBiRv3ixhU
 
+Based on "Nix flakes (NixCon 2019)" at https://www.youtube.com/watch?v=UeBX7Ide5a0
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
