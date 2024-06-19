@@ -29,6 +29,8 @@ Based on "NixOS & Flakes Book - An unofficial book for beginners" at https://nix
 
 Based on "NixOS & Flakes Book on Github" at https://github.com/ryan4yin/nixos-and-flakes-book
 
+Based on "Flakes: Nix Unshackled – Graham Christensen | PackagingCon 2023" at https://www.youtube.com/watch?v=wZBiRv3ixhU
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
