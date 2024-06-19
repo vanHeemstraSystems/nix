@@ -41,7 +41,20 @@ An example of an entry for ```inputs``` is the location (here: url) to the packa
 ...
 ```
 
+## Outputs
 
+At the same level as the ```description``` is an ```outputs``` attribute, that looks like:
 
+```
+{
+  ... more
+  outputs = {
+    ... more
+  };
+  ... more
+}
+```
+
+An example of an entry for ```outputs``` is ...
 
 MORE
