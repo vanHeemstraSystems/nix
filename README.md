@@ -33,6 +33,8 @@ Based on "Flakes: Nix Unshackled – Graham Christensen | PackagingCon 2023" at 
 
 Based on "Nix flakes (NixCon 2019)" at https://www.youtube.com/watch?v=UeBX7Ide5a0
 
+Based on "Practical Nix flake anatomy: a guided tour of flake.nix" at https://vtimofeenko.com/posts/practical-nix-flake-anatomy-a-guided-tour-of-flake.nix/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
