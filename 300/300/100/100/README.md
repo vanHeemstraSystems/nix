@@ -102,7 +102,8 @@ With a system (here: x86_64-linux) we are now able to install Docker containers,
 An example of declaring a Docker image in our flake.nix file is:
 
 ```
-...
+{
+  ... more
   packages."x86_64-linux" =
     let
       pkgs = import nixpkgs [ system = "x86_64-linux"; };
@@ -114,7 +115,8 @@ An example of declaring a Docker image in our flake.nix file is:
           ... more
         }; 
     };
-...
+  ... more
+}
 ```
 
 See also [Nix-powered Docker Containers](https://www.youtube.com/watch?v=5XY3K8DH55M).
