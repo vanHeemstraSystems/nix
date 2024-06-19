@@ -17,6 +17,8 @@ Starting the ```flake.nix``` file is a ```description```, that looks like:
 }
 ```
 
+Strictly speaking, the ```description``` attribute is not needed or required.
+
 ## Inputs
 
 At the same level as the ```description``` is a ```inputs``` attribute, that looks like:
@@ -40,6 +42,8 @@ An example of an entry for ```inputs``` is the location (here: url) to the packa
   };
 ...
 ```
+
+Strictly speaking, the ```inputs``` attribute is not needed or required.
 
 ## Outputs
 
@@ -68,5 +72,7 @@ An example of an entry for ```outputs``` is a packages (here: x86_64-linux) entr
 }
 ...
 ```
+
+Strictly speaking, the ```outputs``` attribute is needed and required.
 
 MORE
